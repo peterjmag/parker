@@ -9,7 +9,8 @@
         "cli-color": "*",
         "minimist": "0.0.7",
         "async": "~0.2.10",
-        "graceful-fs": "~3.0.2"
+        "graceful-fs": "~3.0.2",
+        "glob": "~4.0.6"
     },
     "devDependencies": {
         "chai": "*",
